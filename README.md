@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like to venture to things that I am new with
+I like to explore in things that I am not familiar with
 
 
 # 💻 Tech Stack:

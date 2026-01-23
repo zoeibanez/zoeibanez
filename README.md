@@ -1,7 +1,7 @@
 ![](https://github.com/zoeibanez/zoeibanez/blob/main/Profile%20Banner.png)
 
 # 💫 About Me:
-I like to explore in things that I am not familiar with
+I am a Data Science student with a strong passion for creativity and problem-solving. I enjoy exploring various art forms alongside analytics, allowing me to approach challenges with both imagination and logic. I am hardworking, observant, and eager to learn, with a goal of building a successful future where I can create impact, help others, and live a fulfilling life.
 
 
 # 💻 Tech Stack:

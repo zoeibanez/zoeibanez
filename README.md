@@ -1,3 +1,5 @@
+![](Laboratory 2/Ibañez_resume header.png)
+
 # 💫 About Me:
 I like to explore in things that I am not familiar with
 

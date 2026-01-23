@@ -1,4 +1,4 @@
-![](https://github.com/zoeibanez/Elective-Laboratories/blob/main/Laboratory%202/Iba%C3%B1ez_resume%20header.png)
+![](https://github.com/zoeibanez/zoeibanez/blob/main/Profile%20Banner.png)
 
 # 💫 About Me:
 I like to explore in things that I am not familiar with
